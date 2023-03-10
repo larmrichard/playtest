@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - Ground
+  - Stair
+  - Stair_Up
+  - Stair_Down
+  - PatrolPoint
+  - BackPoint
+  - Cover
+  - Flame
+  - Box
+  - LinkBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - camera
+  - 
+  - 
+  - 
+  - 
+  - enemy
+  - 
+  - item
+  - 
+  - 
+  - player
+  - flame
+  - cover
+  - box
+  - boxcanclimb
+  - environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer1
+    uniqueID: 4151017999
+    locked: 0
+  - name: MapMark
+    uniqueID: 3361793813
+    locked: 0
+  - name: environment
+    uniqueID: 3524827213
+    locked: 0
+  - name: New Layer3
+    uniqueID: 2127859729
+    locked: 0
+  - name: item
+    uniqueID: 426893153
+    locked: 0
+  - name: enemy
+    uniqueID: 967729459
+    locked: 0
+  - name: player
+    uniqueID: 2032681217
+    locked: 0
+  - name: cover
+    uniqueID: 1723584397
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 815105485
+    locked: 0

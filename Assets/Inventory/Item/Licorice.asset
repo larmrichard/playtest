@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862e6168bbe2dc47a340dd23b8bd737, type: 3}
+  m_Name: Licorice
+  m_EditorClassIdentifier: 
+  ItemName: Licorice
+  ItemImage: {fileID: 0}
+  ItemImage1: {fileID: 0}
+  ItemImage2: {fileID: 0}
+  SelectedImage: {fileID: 0}
+  ItemDescription: "\u7518\u8349\uFF1A\u98CE\u5E72\u5904\u7406\u540E\u7684\u7518\u8349\u830E\uFF0C\u662F\u5236\u4F5C\u836F\u4E38\u6BD4\u53EF\u4E0D\u5C11\u7684\u90E8\u5206"
+  Important: 0
+  ItemMaxHeld: 3
+  CombinList: []
+  CombinResult: []

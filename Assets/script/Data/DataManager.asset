@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2071f04ed064245b7fcd95c3fc5e8f, type: 3}
+  m_Name: DataManager
+  m_EditorClassIdentifier: 
+  BagSize: 8
+  PlayerHP: 100
+  Incense: {fileID: 11400000, guid: 8c234a1f7ed1b6847b2a365eeeeff853, type: 2}
+  Position: {x: -162.54, y: 2.602, z: 0}
+  Slot1: {fileID: 0}
+  Slot2: {fileID: 0}
+  Slot3: {fileID: 0}
+  Slot4: {fileID: 0}
+  LockList: 0101010101010101010101000000000100010000
+  FunctionList: 00000000000000000000
+  FunctionListInt: 0200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  EnemyHPList:
+  - 18
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  FileLock: 0000000000000000000000000000000000000000
+  ItemOnWorld: 01010101010101010101010101010101010101010101010101010101010101010101010101010101
+  PositionList:
+  - {x: -199.5009, y: 6, z: 1.718527}
+  - {x: -142.5, y: 8.658, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}

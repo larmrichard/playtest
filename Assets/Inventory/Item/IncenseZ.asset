@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862e6168bbe2dc47a340dd23b8bd737, type: 3}
+  m_Name: IncenseZ
+  m_EditorClassIdentifier: 
+  ItemName: IncenseZ
+  ChargeTime: 2.5
+  ItemImage: {fileID: 21300000, guid: 237ee36f51ab6284fb15d84c4eef3003, type: 3}
+  ItemImage1: {fileID: 0}
+  ItemImage2: {fileID: 0}
+  SelectedImage: {fileID: 0}
+  ItemDescription: "\u711A\u9999 \u589E\u957F"
+  Important: 0
+  ItemMaxHeld: 3
+  CombinList: []
+  CombinResult: []

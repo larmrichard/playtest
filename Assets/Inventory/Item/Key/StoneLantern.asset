@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862e6168bbe2dc47a340dd23b8bd737, type: 3}
+  m_Name: StoneLantern
+  m_EditorClassIdentifier: 
+  ItemName: StoneLantern
+  ChargeTime: 0
+  ItemImage: {fileID: 21300000, guid: 1474b31bd55d87247a35bef6987f9253, type: 3}
+  ItemImage1: {fileID: 21300000, guid: 1474b31bd55d87247a35bef6987f9253, type: 3}
+  ItemImage2: {fileID: 21300000, guid: 1474b31bd55d87247a35bef6987f9253, type: 3}
+  SelectedImage: {fileID: 21300000, guid: 1474b31bd55d87247a35bef6987f9253, type: 3}
+  ItemDescription: "\u4E0B\u65B9\u6709\u67D0\u79CD\u63A5\u53E3\u7684\u77F3\u706F"
+  Important: 1
+  ItemMaxHeld: 2
+  CombinList: []
+  CombinResult: []

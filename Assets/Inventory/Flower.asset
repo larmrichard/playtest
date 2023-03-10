@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6862e6168bbe2dc47a340dd23b8bd737, type: 3}
+  m_Name: Flower
+  m_EditorClassIdentifier: 
+  ItemName: Flower
+  ItemImage: {fileID: 21300000, guid: 48472f08ae832f948a0089d8cfc19818, type: 3}
+  ItemImage1: {fileID: 0}
+  ItemImage2: {fileID: 0}
+  SelectedImage: {fileID: 21300000, guid: 2e5f141ab047e894fbd0940e4b31b197, type: 3}
+  ItemDescription: "\u548C\u53F6\u5B50\u53EF\u7EC4\u5408\u6210\u4E00\u682A\u6574\u82B1"
+  Important: 0
+  ItemMaxHeld: 3
+  CombinList:
+  - {fileID: 11400000, guid: 0e0acc16816581c4abc7913e696f81ca, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  CombinResult:
+  - {fileID: 11400000, guid: 7a9e3ed218fa8e84e90630d6e2f54b0f, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
